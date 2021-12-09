@@ -1,6 +1,6 @@
-import turtle
-from turtle import Turtle, Screen
 import random
+import turtle
+from turtle import Screen, Turtle
 
 timmy = Turtle()
 timmy.shape("turtle")
